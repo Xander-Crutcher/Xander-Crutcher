@@ -40,6 +40,11 @@ I love reverse-engineering game logic and thinking about how UI and backend code
 ---
 
 ### 🔗 Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Xander-Crutcher)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.tstc.edu/)
+<a href="https://github.com/Xander-Crutcher" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+<a href="https://www.tstc.edu/" target="_blank">
+  <img src="https://img.shields.io/badge/TSTC-004080?style=for-the-badge&logo=icloud&logoColor=white" alt="TSTC Badge"/>
+</a>
+
 
